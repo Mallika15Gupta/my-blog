@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<HTML>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> YOUTH </title>
+<style>
+img {
+  border: 12px solid #555;
+  /* By border radius property we can decide the shape of the border. If we increase or decrease the value from 50%
+  then the shape would change and would no longer be circular*/
+    border-radius: 40%;
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body style="background-color:powderblue;">
+<h1><center>YOUTH </center></h1>
+<div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              
+                <div class="thumbnail">
+                	<img src="youth.jpg" width=250px height=250px class="center">
+                	<div class="caption text-center">
+                		<center><b><i>
+                        The wasted years, the wasted Youth<br>
+                        The pretty lies, the ugly truth...
+                    </i></b></center>
+                    </div>
+                </div>
+                <h2 class="text-center">Youth these days</h2>
+                <h3 class="text-center">What are we as a young generation going through?</h3>
+              <div class="thumbnail center">We are all young people, living to learn and learning to live.
+              For me, everyday is a new lesson. We are hustling daily and trying to win in the cutthroat competition where almost everyone is working hard and knowing things. Most of us are so confident and self-dependent that we have almost become a narcissist. The youth of today has been widely outclassed; this is an age where they are too young to be pampered, and they are not old enough to take big responsibilities on their own shoulders. Most of us keep battling with this problem for many years due to lack of guidance and support sometimes. Also we can see that most of us are stressed and frustated these days, unlike the youth 20-30 years back. We need X number of years of experience, a good degree, ample of knowledge and really good soft-skills to enter the job market in the first place, and this is the basic requirement.
+         <br>
+         Also peer pressure and societal double standards just strangle the innocent soul and moulds the mentality of young generation into a completely bad shape. No doubt today's youth is more outgoing, more extravagant in their desires and less into their studies; they are stubborn, want to attain success very fast and have a luxurious lifestyle with least efforts. Perpetual fight between heart and mind on s-called love issues which have dramatically been on rise since the past few years but end mostly in the destruction of lives either by suicide or by eternal misery which renders them mentally unfit. The depression overpowers them and very few are able to cope up with it as another aspect of the ups and downs of life.
+         I believe we must learn to wait a little, give time to take care of our health, do more of our favorite activites and spend time with our family. We must try to accept certain things the way they are and start leaning from out failures. </div>
+</body>
+     </html>
+                
